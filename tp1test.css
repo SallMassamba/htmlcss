@@ -1,0 +1,19 @@
+p
+ {
+    color: rgb(9, 9, 218);
+    background-color: #ccc;
+    border: 1px solid black;
+    text-align: justify;
+    padding: 12px;
+    margin: 2px 1px 3px 2px;
+}
+h1
+{
+    width: #ccc;
+    min-width: 300px;
+}
+h2
+{
+    width: rgb(204, 11, 11);
+    color: royalblue;
+}
